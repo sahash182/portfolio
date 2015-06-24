@@ -1,0 +1,34 @@
+h1{
+	color: #D8F6CE;
+	font-size: 75px;
+	background-color: #9A2EFE;
+}
+h2{
+	color: #380B61;
+}
+body{
+	background-color: #8181F7;
+}
+.btn-default {
+ color: white;
+ background-color: black;
+ border-color: black;
+}
+.navbar-brand{
+	background-color: black;
+	text-align: center;
+}
+.navbar-header{
+	background:black;
+	color: white;
+}
+.container-fluid{
+	background: black;
+}
+.navbar-form{
+	background: black;
+	color: white;
+}
+.email{
+	background: red;
+}
